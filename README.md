@@ -1,2 +1,2 @@
 # sc-ter-gg
-python2 burik_endcrypt.py
+python2 mantap.py
